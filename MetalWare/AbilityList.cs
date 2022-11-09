@@ -24,6 +24,9 @@ namespace MetalWare
         public bool Type2 { get; set; }
         public bool Type3 { get; set; }
         public bool Type4 { get; set; }
+        public bool Human { get; set; }
+        public bool Elf { get; set; }
+        public bool Giant { get; set; }
         public bool OHSword { get; set; }
         public bool THSword { get; set; }
         public bool OHAxe { get; set; }
